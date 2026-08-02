@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overflow.AppHost", "Overflow.AppHost\Overflow.AppHost.csproj", "{BF5B1A6B-DB5D-4E30-80FE-DDE2BAE8B0F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overflow.ServiceDefaults", "Overflow.ServiceDefaults\Overflow.ServiceDefaults.csproj", "{88DB9C39-9AA5-4CAF-B178-BBA67B24F760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5B1A6B-DB5D-4E30-80FE-DDE2BAE8B0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5B1A6B-DB5D-4E30-80FE-DDE2BAE8B0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5B1A6B-DB5D-4E30-80FE-DDE2BAE8B0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5B1A6B-DB5D-4E30-80FE-DDE2BAE8B0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DB9C39-9AA5-4CAF-B178-BBA67B24F760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DB9C39-9AA5-4CAF-B178-BBA67B24F760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DB9C39-9AA5-4CAF-B178-BBA67B24F760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DB9C39-9AA5-4CAF-B178-BBA67B24F760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A612188-A9AD-4EEC-BA4F-31A0B9C3244E}
+	EndGlobalSection
+EndGlobal

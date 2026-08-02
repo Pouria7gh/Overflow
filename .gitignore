@@ -1,0 +1,78 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+**/packages/*
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+appsettings.*.json
+!appsettings.json
+
+# Keep example configuration files
+!appsettings.*.example.json
+
+# User secrets
+secrets.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+docker-compose.override.yml
+
+# Aspire generated files
+**/.aspire/
+.aspire/
+
+# Aspire dashboard local data
+**/aspire-dashboard/
+
+# Generated certificates
+*.pfx
+*.key
+*.crt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Publish output
+publish/
+[Pp]ublish/
+
+# Generated files
+Generated/
