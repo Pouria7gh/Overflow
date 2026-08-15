@@ -4,6 +4,7 @@
 
 # VS Code
 .vscode/
+.vs/
 
 # NuGet
 *.nupkg
